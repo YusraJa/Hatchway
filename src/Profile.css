@@ -1,0 +1,18 @@
+
+.mainDiv{
+   
+    display: flex;
+    text-align: left;
+    direction: ltr;
+}
+div img{
+   height:100px;
+   width:100px;
+   border-radius: 50px;
+   border: 1px solid rgb(182, 182, 182);
+   margin: 20px;
+   
+}
+.studentsData{
+    margin-left: 0;
+}
